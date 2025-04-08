@@ -4,5 +4,10 @@ using UnityEngine;
 
 public enum EFXPoolType
 {
-
+    None,
+    DamageText,
+    UnitDieEffect,
+    DestroyEnemy,
+    DestroyTower,
+    AttackObject01_Bullet
 }

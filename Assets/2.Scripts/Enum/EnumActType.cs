@@ -8,5 +8,6 @@ public enum EActType
     Idle,
     Move,
     Attack,
-    Die
+    Die,
+    Jump
 }

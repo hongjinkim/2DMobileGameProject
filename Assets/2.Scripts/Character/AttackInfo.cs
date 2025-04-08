@@ -3,6 +3,7 @@ using UnityEngine;
 public struct AttackInfo
 {
     public float Damage;
+    public EAttackType AttackType;
     public EFXPoolType EffectType;
     public int HitCount;
     public EAttackerType AttackerType;
@@ -13,6 +14,7 @@ public struct AttackInfo
 public enum EAttackerType
 {
     None,
-    Player,
+    Hero,
+    Tower,
     Monster,
 }
