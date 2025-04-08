@@ -5,6 +5,10 @@
 
 > 참고 게임 링크: [TDS - Google Play](https://play.google.com/store/apps/details?id=com.playstrom.hero.tower&hl=ko)
 
+# 진행 기간
+
+25.04.03 ~ 25.04.08
+
 ---
 
 ## 주요 구현 내용
@@ -25,3 +29,6 @@
 - C#
 
 ## 시연 영상
+
+https://youtube.com/shorts/b23kWM88Vs4
+
